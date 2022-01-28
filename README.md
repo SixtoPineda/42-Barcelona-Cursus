@@ -1,1 +1,1 @@
-# 42-Barcelona-Cursus-00-Libft
+# 42-Barcelona-Cursus
