@@ -8,7 +8,7 @@ The following table shows the different projects that I will carry out to comple
 
 |#	|PROJECT							|LANGUAGE		|EXPERIENCE	|STATUS						|
 |:-:|:--								|:-:		|--:		|--:						|
-|00	|[Shell 00](.00-Libft)	|C		|100 XP		|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/spineda-/libft)](https://github.com/JaeSeoKim/badge42)|
+|00	|[Libft](/.00-Libft)	|C		|100 XP		|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/spineda-/Libft)](https://github.com/JaeSeoKim/badge42)|
 |Circle 00	||		|100 XP		|100% :heavy_check_mark:	|
 |01	|[Shell 01](./Shell/Shell01/)	|Shell		|100 XP		|100% :heavy_check_mark:	|
 |02	|[C 00](./C/C-00)			|C			|100 XP		|100% :heavy_check_mark:	|
