@@ -3,11 +3,27 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: spineda- <spineda-@student.42barcel>       +#+  +:+       +#+        */
+/*   By: syxtyn <syxtyn@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/28 14:03:57 by spineda-          #+#    #+#             */
-/*   Updated: 2022/01/28 14:03:58 by spineda-         ###   ########.fr       */
+/*   Updated: 2022/02/01 10:31:00 by syxtyn           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#ifndef GET_NEXT_LINE_H
+# define GET_NEXT_LINE_H
 
+/*-------------------------Header------------------------------------*/
+# include <stdlib.h>
+# include <unistd.h>
+
+# ifndef BUFFER_SIZE
+#  define BUFFER_SIZE 1
+# endif
+
+/*------------------------Functions-----------------------------------*/
+char	*get_next_line(int fd);
+
+/*------------------------Bonus-----------------------------------*/
+
+#endif
