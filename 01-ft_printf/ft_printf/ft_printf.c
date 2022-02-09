@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: spineda- <spineda-@student.42barcel>       +#+  +:+       +#+        */
+/*   By: syxtyn <syxtyn@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/02 09:54:28 by spineda-          #+#    #+#             */
-/*   Updated: 2022/02/02 11:52:35 by spineda-         ###   ########.fr       */
+/*   Updated: 2022/02/09 15:57:23 by syxtyn           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,8 @@
 
 */
 #include <stdio.h>
+
+
 int	ft_printf(const char *str, ...)
 {
 	va_list	argptr;
@@ -41,7 +43,7 @@ int	ft_printf(const char *str, ...)
 				int	c = va_arg(argptr, int);
 				printf("Detecta el decimal asociado a: %d\n", c);
 			}
-			else if (ft_strncmp(str, "%c", 2) == 0)
+			/* else if (ft_strncmp(str, "%c", 2) == 0)
 			{
 				char	c = (char) va_arg(argptr, int);
 				printf("Detecta el char asociado a: %c\n", c);
@@ -80,7 +82,7 @@ int	ft_printf(const char *str, ...)
 			{
 				char	c = (char) va_arg(argptr, int);
 				printf("Detecta el hexa en mayusculas asociado a: %c\n", c);
-			}
+			} */
 
 		}
 		str++;
@@ -91,10 +93,10 @@ int	ft_printf(const char *str, ...)
 
 int	main(void)
 {
-	char	*str = "hola";
-	char	c = 's';
+/* 	char	*str = "hola";
+	char	c = 's'; */
 	int		n = 55;
-	char	*ptr;
+/* 	char	*ptr;
 	ptr = &c;
 	// int	*ptr;
 	// ptr = &n;
@@ -102,7 +104,8 @@ int	main(void)
 	unsigned int	ui = 1;
 	int		hex_min = -3455;
 	int		hex_may = 555;
-	char	por = '%';
-	ft_printf("d: %d\nc: %c\ns: %s\npunter: %p\nEntero: %i\nUnsigned int: %u\nHex_min: %x\nHex_may: %X\nPorcentaje: %%", n, c, str, ptr, entero, ui,  hex_min, hex_may, por);
-
+	char	por = '%'; */
+	/* ft_printf("d: %d\nc: %c\ns: %s\npunter: %p\nEntero: %i\nUnsigned int: %u\nHex_min: %x\nHex_may: %X\nPorcentaje: %%", n, c, str, ptr, entero, ui,  hex_min, hex_may, por);
+ */
+	ft_printf("d: %d\n", n);
 }
