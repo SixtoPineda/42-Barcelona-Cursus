@@ -18,11 +18,13 @@
 # include <unistd.h>
 # include <stdarg.h>
 /*------------------------ft_printf-----------------------------------*/
-int		ft_printf(const char *, ...);
+int		ft_printf(const char *str, ...);
 
 /*------------------------Utils - ft_printf-----------------------------------*/
 void	ft_putchar(char c);
+int		ft_strncmp(const char *s1, const char *s2, size_t n);
+char	*ft_itoa(int n);
+int		ft_strlen(char *str);
 /*------------------------Bonus-----------------------------------*/
-
 
 #endif
