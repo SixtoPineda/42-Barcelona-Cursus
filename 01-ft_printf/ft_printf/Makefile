@@ -22,7 +22,13 @@ SRC	=	ft_printf.c	\
 		ft_putchar.c	\
 		ft_strncmp.c	\
 		ft_itoa.c	\
-		ft_strlen.c
+		ft_strlen.c	\
+		ft_itoa_h.c	\
+		ft_itoa_ui.c	\
+		ft_itoa_x.c	\
+		ft_itoa_upx.c	\
+		ft_print_case.c	\
+		ft_print_case2.c
 OBJ = $(SRC:.c=.o)
 
 
