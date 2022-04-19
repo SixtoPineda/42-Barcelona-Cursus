@@ -14,9 +14,11 @@ The following table shows the different projects that I will carry out to comple
 
 |#	|PROJECT							|LANGUAGE		|EXPERIENCE	|STATUS						|
 |:-:|:--								|:-:		|--:		|--:						|
-|00	|[Libft](/00-Libft)	|C		|462 XP		|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/spineda-/Libft)](https://github.com/JaeSeoKim/badge42)|
+|00	|[Libft](/00-Libft)	|C		|462 XP		|[![spineda-'s 42 Libft Score](https://badge42.vercel.app/api/v2/cl20d8uvd001109l9z9pr42vw/project/2453888)](https://github.com/JaeSeoKim/badge42)|
 |:cyclone: 0	||		|**Total: 462 XP**		||
-|01	|[get_next_line](/01-get_next_line)	|C		|882 XP		|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/spineda-/get_next_line)](https://github.com/JaeSeoKim/badge42)|
-|01	|[Born2beroot]()	|C		|577 XP		|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/spineda-/Born2beroot)](https://github.com/JaeSeoKim/badge42)|
-|01	|[ft_printf]()	|C		|882 XP		|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/spineda-/ft_printf)](https://github.com/JaeSeoKim/badge42)|
+|01	|[get_next_line](/01-get_next_line)	|C		|882 XP		|[![spineda-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl20d8uvd001109l9z9pr42vw/project/2471322)](https://github.com/JaeSeoKim/badge42)|
+|01	|[Born2beroot]()	|		|577 XP		|[![spineda-'s 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl20d8uvd001109l9z9pr42vw/project/2503959)](https://github.com/JaeSeoKim/badge42)|
+|01	|[ft_printf]()	|C		|882 XP		|[![spineda-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl20d8uvd001109l9z9pr42vw/project/2478573)](https://github.com/JaeSeoKim/badge42)|
 |:cyclone: 1	||		|**Total: 2341 XP**		||
+|02	|[Exam Rank 02]()	|C		| XP		|[![spineda-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl20d8uvd001109l9z9pr42vw/project/2519970)](https://github.com/JaeSeoKim/badge42)|
+|02	|[Minitalk]()	|C		|1142 XP		|[![spineda-'s 42 minitalk Score](https://badge42.vercel.app/api/v2/cl20d8uvd001109l9z9pr42vw/project/2546751)](https://github.com/JaeSeoKim/badge42)|
